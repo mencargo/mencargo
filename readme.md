@@ -1,8 +1,9 @@
-### Diego Algara
+# Diego Algara
 
-# Not a lot to show off, mostly private repositories, founder of [Nubenautas](https://nubenautas.com/), [ReguDocs](https://regudocs.com/) & [GTFS Studio](https://gtfs.studio)
+Nothing to see here, mostly private repositories
 
-Here, have Gists:
+#### Founder of [Nubenautas](https://nubenautas.com/), [ReguDocs](https://regudocs.com/) & [GTFS Studio](https://gtfs.studio)
 
-[PostgreSQL](https://gist.github.com/mencargo/79447185034ebabcb49087008fbdc266)
+#### Here, have some gists:
+[Useful PostgreSQL Queries & Commands](https://gist.github.com/mencargo/79447185034ebabcb49087008fbdc266)
 
