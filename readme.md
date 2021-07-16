@@ -7,6 +7,6 @@ Nothing to see here, mostly private repositories
 #### Here, have some gists:
 [Linux Commands](https://gist.github.com/mencargo/c5e8c296a4e5492cdfb8c08774aed798)
 
-[Arch Linux & ZSH](https://gist.github.com/mencargo/c068da8b6128af5e838a3b60ed344212)
+[Arch Linux scripts](https://gist.github.com/mencargo/c068da8b6128af5e838a3b60ed344212)
 
 [PostgreSQL Queries](https://gist.github.com/mencargo/79447185034ebabcb49087008fbdc266)
