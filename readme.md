@@ -1,9 +1,8 @@
 # Diego Algara
 
-#### Founder of [Nubenautas](https://nubenautas.com/), [ReguDocs](https://regudocs.com/) & [GTFS Studio](https://gtfs.studio)
+## Founder of [Nubenautas](https://nubenautas.com/), [ReguDocs](https://regudocs.com/) & [GTFS Studio](https://gtfs.studio)
 
-#### Simple Run or Raise for X11 Window Managers
-[ror](https://github.com/mencargo/ror)
+### [ror](https://github.com/mencargo/ror) - Simple `run-or-raise` application switcher for X11s
 
 #### Here, have some gists:
 [Linux Commands](https://gist.github.com/mencargo/c5e8c296a4e5492cdfb8c08774aed798)
