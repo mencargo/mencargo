@@ -5,4 +5,6 @@
 
 [Arch Linux scripts](https://gist.github.com/mencargo/c068da8b6128af5e838a3b60ed344212)
 
+[Simple DNS filter/cache](https://gist.github.com/mencargo/1c66729f3db840f49c8cde2012d437d7)
+
 [PostgreSQL Queries](https://gist.github.com/mencargo/79447185034ebabcb49087008fbdc266)
