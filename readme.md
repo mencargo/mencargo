@@ -7,8 +7,4 @@
 
 [Linux Commands](https://gist.github.com/mencargo/c5e8c296a4e5492cdfb8c08774aed798)
 
-[Bash RC](https://gist.github.com/mencargo/c0615d704923c9b4fe8c904f8279b469)
-
-[Arch Linux AUR](https://gist.github.com/mencargo/c068da8b6128af5e838a3b60ed344212)
-
-### [Files](https://mencargo.github.io/)
+### [Bash RC & Arch Linux AUR](https://mencargo.github.io/)
