@@ -8,3 +8,5 @@
 [DNSmasq cache & filter](https://gist.github.com/mencargo/1c66729f3db840f49c8cde2012d437d7)
 
 ### Raw files for [Bash RC & Arch Linux AUR](https://mencargo.github.io/)
+
+### Usefull stuff for 42 School [42 Cheat Sheet](https://mencargo.github.io/42)
